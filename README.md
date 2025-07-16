@@ -7,41 +7,7 @@
 
 ---
 ## 🚀 Languages & Tools
-
-<p align="left">
-  <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Assembly (custom image fallback) -->
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-cpu-technology-flat-flat-juicy-fish.png" width="40" height="40" alt="Assembly" />
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- GitHub (black official) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-</p>
-
----
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 💻 Skills
 
