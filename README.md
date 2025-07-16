@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hani Sarsa</h1>
 <h3 align="center">🚀 Student at ESI Algiers | Web & Software Developer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</p>
+## 👨‍💻 About Me
 
----
-## 🚀 Languages & Tools
+Hi, I'm **Hani Sarsa** — a passionate and curious developer currently studying at **ESI Algiers** 🇩🇿.  
+I love turning ideas into real-world solutions using clean code, elegant UI, and logical thinking.
+
+I'm always learning, building, and experimenting — whether it's in low-level languages like **C**, or creating responsive interfaces using **HTML**, **CSS**, and **JavaScript**.
+
+### 💬 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
   &nbsp;&nbsp;
@@ -21,18 +23,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
-</p>
-
-
-
-
-## 💻 Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
 </p>
 
 ---
