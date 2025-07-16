@@ -11,19 +11,32 @@
 <p align="left">
   <!-- HTML -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
-  
+  &nbsp;&nbsp;&nbsp;
+
   <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
-  
+  &nbsp;&nbsp;&nbsp;
+
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  
+  &nbsp;&nbsp;&nbsp;
+
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Assembly -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Assembly_language_icon.png" width="40" height="40" alt="Assembly" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub (white icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40" height="40" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
+
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
