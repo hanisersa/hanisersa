@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hani Sarsa</h1>
+<h1 align="center">Hi 👋, I'm Hani Abdeldjalil Sarsa</h1>
 <h3 align="center"> Student at ESI Algiers | Web & Software Developer</h3>
 
 ## 👨‍💻 About Me
