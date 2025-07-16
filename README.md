@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hani</h1>
-<h3 align="center">A passionate student and developer from Algeria</h3>
+<h3 align="center">Student at ESI Algiers | Aspiring Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
+</p>
 
 ---
 
-### 🧠 Skills
+## 🚀 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
@@ -24,14 +28,25 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<!-- Stats using GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=000000&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanisersa&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
-<!-- Optional: GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanisersa&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/hanisersa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white"/>
+  </a>
 </p>
