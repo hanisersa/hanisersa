@@ -25,21 +25,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   &nbsp;&nbsp;&nbsp;
 
-  <!-- Assembly -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Assembly_language_icon.png" width="40" height="40" alt="Assembly" />
+  <!-- Assembly (custom image fallback) -->
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-cpu-technology-flat-flat-juicy-fish.png" width="40" height="40" alt="Assembly" />
   &nbsp;&nbsp;&nbsp;
 
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
   &nbsp;&nbsp;&nbsp;
 
-  <!-- GitHub (white icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" width="40" height="40" alt="GitHub" />
+  <!-- GitHub (black official) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   &nbsp;&nbsp;&nbsp;
 
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 </p>
+
 ---
 
 ## 💻 Skills
