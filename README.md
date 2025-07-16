@@ -7,7 +7,20 @@
 
 ---
 ## 🚀 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,github,linux,assembly)](https://skillicons.dev)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+</p>
+
 
 ## 💻 Skills
 
