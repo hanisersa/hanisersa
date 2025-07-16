@@ -18,12 +18,13 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gitkraken" height="40" alt="GitKraken"/>
+  <img src="https://img.icons8.com/fluency/48/000000/gitkraken.png" height="40" alt="GitKraken"/>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
 </p>
+
 
 
 
