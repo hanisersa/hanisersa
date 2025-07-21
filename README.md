@@ -41,15 +41,3 @@ I'm always learning, building, and experimenting — whether it's in low-level l
   <img src="https://github-profile-trophy.vercel.app/?username=hanisersa&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
----
-
-## 🔗 Contact
-
-<p align="left">
-  <a href="mailto:your@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://linkedin.com/in/hanisersa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white"/>
-  </a>
-</p>
