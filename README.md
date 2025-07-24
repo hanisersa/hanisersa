@@ -3,10 +3,10 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Hani Sarsa** — a passionate and curious developer currently studying at **ESI Algiers** 🇩🇿.  
+Hi, I'm **Hani Abdeldjalil Sersa** a passionate and curious developer currently studying at **ESI Algiers** 🇩🇿.  
 I love turning ideas into real-world solutions using clean code, elegant UI, and logical thinking.
 
-I'm always learning, building, and experimenting — whether it's in low-level languages like **C**, or creating responsive interfaces using **HTML**, **CSS**, and **JavaScript**.
+I'm always learning, building, and experimenting  whether it's in low-level languages like **C**, or creating responsive interfaces using **HTML**, **CSS**, and **JavaScript**.
 
 ### 💬 Tech Stack:
 <p align="left">
