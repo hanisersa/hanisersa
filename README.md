@@ -5,10 +5,14 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Hani Abdeldjalil Sersa** a passionate and curious developer currently studying at **ESI Algiers** 🇩🇿.  
-I love turning ideas into real-world solutions using clean code, elegant UI, and logical thinking.
+Hi 👋, I'm **Hani Abdeldjalil Sersa**  a curious and passionate developer currently studying at **ESI Algiers** 🇩🇿.  
 
-I'm always learning, building, and experimenting  whether it's in low-level languages like **C**, or creating responsive interfaces using **HTML**, **CSS**, and **JavaScript**.
+I enjoy bringing ideas to life by writing **clean, efficient code** and designing **elegant, user-friendly interfaces**.  
+
+I'm always learning and experimenting — from low-level problem solving in **C** and **Python**, to building responsive interfaces with **HTML**, **CSS**, **JavaScript**, and **React**.  
+
+I love exploring new tools, challenging myself with projects, and continuously growing as a developer.
+
 
 ### 💬 Tech Stack:
 <p align="left">
