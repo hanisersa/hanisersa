@@ -23,6 +23,8 @@ I'm always learning, building, and experimenting  whether it's in low-level lang
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code"/>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux"/>
+   &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="react"/>
 </p>
 
 ---
