@@ -52,4 +52,3 @@ I love exploring new tools, challenging myself with projects, and continuously g
   <img src="https://github-profile-trophy.vercel.app/?username=hanisersa&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
-.
